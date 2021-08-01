@@ -1,0 +1,12 @@
+/.DS_Store
+/.vscode
+/Data
+/Extra Images
+/Images
+/NewImages
+/Overall Images
+/__pycache__
+/final.py
+/main.py
+/raw_plots.py
+/stac_fac.py
